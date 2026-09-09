@@ -1,1 +1,1 @@
-# pamatkurss-prog. Kristiāns Burševics
+# pamatkurss-prog. JstKikis
