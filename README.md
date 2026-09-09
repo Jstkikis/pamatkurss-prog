@@ -1,1 +1,1 @@
-# pamatkurss-prog.
+# pamatkurss-prog. Kristiāns Burševics
