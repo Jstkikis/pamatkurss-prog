@@ -1,1 +1,1 @@
-# pamatkurss-prog. JstKikis
+# pamatkurss-prog JstKikis
