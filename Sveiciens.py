@@ -1,1 +1,1 @@
-print("Mans pirmais commit!- test")
+print("Mans pirmais commit!- test v2")
