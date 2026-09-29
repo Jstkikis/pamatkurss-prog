@@ -14,7 +14,7 @@ Autors: **Kristiāns Burševics**
 ## Kā palaist
 Programma tiek atvērta un tad ar python code izpildīšanas pogu tiek palaista, vēlāk būs ar shortcut aplikacijai.
 Vienkārši palaid `main.py` failu savā terminālī. Tas izskatās šādi:
-```python
+```python`
 
 ## Licence
 
