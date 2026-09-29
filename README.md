@@ -24,4 +24,4 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-Izskaidrojums tieši kas ir "License" un, ko ar to pnāk un dara.
+Izskaidrojums, kas tieši ir "License" un ko ar to panāk, un dara.
