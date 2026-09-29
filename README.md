@@ -5,12 +5,16 @@ Autors: **Kristiāns Burševics**
 Šajā projektā faili ir sakārtoti pa attiecīgām apakšmapēm:
 - **uzdevumi/** — satur visus programmas koda failus (`sveiciens.py` un `diena1.py`).
 - **dati/** — paredzēta datu failu (piemēram, `.txt` vai `.csv`) glabāšanai.
+**README.md secinājums** - Tas ir teksta fails, bet kur vel var izveidot virsrakstus, apakšvirsrakstus un kur var ievietot ar kodu, piem. 
+`print("Projekts darbojas!")`
 
 ### Git konfigurācija
 - `.gitignore` paskaidro Git sistēmai, kurus failus vai mapes (piemēram, pagaidu failus, virtuālās vides vai lielus datu failus) nevajag pievienot repozitorijam un sekot to izmaiņām.
 
 ## Kā palaist
 Programma tiek atvērta un tad ar python code izpildīšanas pogu tiek palaista, vēlāk būs ar shortcut aplikacijai.
+Vienkārši palaid `main.py` failu savā terminālī. Tas izskatās šādi:
+```python
 
 ## Licence
 
@@ -25,3 +29,4 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
 Izskaidrojums, kas tieši ir "License" un ko ar to panāk, un dara.
+
